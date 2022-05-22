@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Samin Zafar.
-- 👀 I’m interested in "Programming, AI(Artigficial Intelligence), Robotics and Machine Learning".
+- 👀 I’m interested in "Programming, AI, Robotics, Machine Learning, HTML and CSS".
 - 🌱 I’m currently learning "Bachelors's in Computer Application(BCA)".
 - 💞️ I’m looking to collaborate on interesting project works.
 - 📫 You can reach me through mail."Mial ID- btsamin0613@gmail.com ".
